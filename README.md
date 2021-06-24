@@ -1,27 +1,34 @@
-# Vitor Amorim
+<h1 align="center">Hi 👋, I'm Vitor Amorim</h1>
+<h3 align="center">I am javascript, nodejs and java developer.</h3>
 
-## Hey! Welcome to my profile! 😊
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitoramorims&label=Profile%20views&color=0e75b6&style=flat" alt="vitoramorims" /> </p>
 
-###   I'm a software developer🤘
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitoramorims" alt="vitoramorims" /></a> </p>
 
-### what am I doing? # 
-* I’m currently stundig at Trybe https://www.betrybe.com/.
-* "Learning is continuous and there will always be a next level"
-*  ❤️  🛠️Node, MongoDB, Mysql, Express, REST, JWT, Heroku, React, Redux, ContextAPI.
-* Out of time I've been dedicating myself to studies with  ➕ java
+- 🔭 I’m currently working on [Unit Test](vitoramorim-sd-07-cookmaster)
 
-![image](https://user-images.githubusercontent.com/67655677/116682985-6084ea00-a985-11eb-8a0a-0a75d2caabb9.png)
-![image](https://user-images.githubusercontent.com/67655677/116683030-70043300-a985-11eb-899e-3f19c83e339d.png)
-![image](https://user-images.githubusercontent.com/67655677/116683065-798d9b00-a985-11eb-8e92-fb5ebc0a511c.png)
-![image](https://user-images.githubusercontent.com/67655677/116683099-827e6c80-a985-11eb-908c-b9188914a362.png)
-![image](https://user-images.githubusercontent.com/67655677/116683134-8f9b5b80-a985-11eb-93ec-45c32a02a80f.png)
-![image](https://user-images.githubusercontent.com/67655677/116683167-9aee8700-a985-11eb-8f42-612ab838f73e.png)
-![image](https://user-images.githubusercontent.com/67655677/116683216-a93ca300-a985-11eb-89bf-e667fc42259e.png)
-![image](https://user-images.githubusercontent.com/67655677/116683259-b5c0fb80-a985-11eb-869f-9130f7b6591f.png)
+- 🌱 I’m currently learning **Bootcamp Java digital innovation one**
 
+- 👯 I’m looking to collaborate on **Trybeer**
 
-https://www.linkedin.com/in/vitoramorimdev/
+- 🤝 I’m looking for help with [Junit](in course)
 
+- 👨‍💻 All of my projects are available at [https://github.com/vitorAmorims](https://github.com/vitorAmorims)
 
-![mailbox](https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png) How to reach me **[vtamorims@gmail.com](mailto:vtamorims@gmail.com)**
- ![mailbox](https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png) How to reach me **[vtamorims@hotmail.com](mailto:vtamorims@hotmail.com)**
+- 💬 Ask me about **javascript, nodeJs, mysql, mongodb e ORM sequelize**
+
+- 📫 How to reach me **vtamorim@gmail.com, vtamorim@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vitoramorimdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitoramorimdev/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoramorims&show_icons=true&locale=en&layout=compact" alt="vitoramorims" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitoramorims&show_icons=true&locale=en" alt="vitoramorims" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoramorims&" alt="vitoramorims" /></p>
