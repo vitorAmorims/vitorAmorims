@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vitor Amorim</h1>
 <h3 align="center">I am a student undergraduate data science and big data<h3>
-<h3> Like to study database, artificial intelligence and cloud computing.</h3>
+<h3 align="center">Like to study database, artificial intelligence and cloud computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitoramorims&label=Profile%20views&color=0e75b6&style=flat" alt="vitoramorims" /> </p>
 
