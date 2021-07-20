@@ -1,21 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vitor Amorim</h1>
-<h3 align="center">I am javascript, nodejs and java developer.</h3>
+<h3 align="center">I am a student undergraduate data science and big data<h3>
+<h3> Like to study database, artificial intelligence and cloud computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitoramorims&label=Profile%20views&color=0e75b6&style=flat" alt="vitoramorims" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitoramorims" alt="vitoramorims" /></a> </p>
 
-- 🔭 I’m currently working on [Unit Test](vitoramorim-sd-07-cookmaster)
-
-- 🌱 I’m currently learning **Bootcamp Java digital innovation one**
-
-- 👯 I’m looking to collaborate on **Trybeer**
-
-- 🤝 I’m looking for help with [Junit](in course)
-
 - 👨‍💻 All of my projects are available at [https://github.com/vitorAmorims](https://github.com/vitorAmorims)
 
-- 💬 Ask me about **javascript, nodeJs, mysql, mongodb e ORM sequelize**
+- 💬 Ask me about **javascript, nodeJs, java, mysql, mongodb e ORM sequelize**
 
 - 📫 How to reach me **vtamorim@gmail.com, vtamorim@hotmail.com**
 
