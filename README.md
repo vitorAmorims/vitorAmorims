@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vitor Amorim</h1>
 <h3 align="center">I'm currently learning, student undergraduate data science and big data<h3>
-<h3 align="center">Like to study database, artificial intelligence and cloud computing.</h3>
+  - 💬 Ask me about **Meu negócio é back-end, com nodeJs, java e banco de dados**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitoramorims&label=Profile%20views&color=0e75b6&style=flat" alt="vitoramorims" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitoramorims" alt="vitoramorims" /></a> </p>
 
-- 💬 Ask me about **Meu negócio é back-end, com nodeJs, java e banco de dados**
+
 
 - 📫 How to reach me **vtamorim@gmail.com, vtamorim@hotmail.com**
 
