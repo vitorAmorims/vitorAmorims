@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitoramorims" alt="vitoramorims" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vitorAmorims](https://github.com/vitorAmorims)
-
 - 💬 Ask me about **javascript, nodeJs, java, mysql, mongodb e ORM sequelize**
 
 - 📫 How to reach me **vtamorim@gmail.com, vtamorim@hotmail.com**
