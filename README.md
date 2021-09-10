@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor Amorim</h1>
 <h3 align="center">I'm currently learning, student undergraduate data science and big data<h3>
-  - 💬 Ask me about **Meu negócio é back-end, com nodeJs, java e banco de dados**
+  - 💬 Ask me about **back-end, nodeJs, java, c# and databases**
+  <h4 align="center">i working in Icatu Seguros.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitoramorims&label=Profile%20views&color=0e75b6&style=flat" alt="vitoramorims" /> </p>
 
