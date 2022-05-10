@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitor Amorim</h1>
-<h3 align="center">I'm currently learning, student undergraduate data science and big data<h3>
+<h3 align="center">I'm currently learning<h3>
   - 💬 Ask me about **back-end, nodeJs, java, c# and databases**
   <h4 align="center">i working in Icatu Seguros.</h4>
 
