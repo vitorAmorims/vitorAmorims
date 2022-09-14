@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vitor Amorim</h1>
 <h3 align="center">I'm currently learning.<h3>
-<h3 align="center"> 💬 Ask me about **back-end, nodeJs, java, dotnet and databases.<h3>
+<h3 align="center"> 💬 Ask me about back-end, nodeJs, java, dotnet and databases.<h3>
 <h4 align="center">i working in Icatu Seguros.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitoramorims&label=Profile%20views&color=0e75b6&style=flat" alt="vitoramorims" /> </p>
